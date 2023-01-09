@@ -2,7 +2,5 @@ title: goooooooooooogle
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://goooooooooooogle.github.io
+url: https://goooooooooooogle.github.io/just-the-docs-template
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template

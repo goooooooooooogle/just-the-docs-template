@@ -2,5 +2,9 @@ title: goooooooooooogle
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/unnamed.png"
+
+
 url: https://goooooooooooogle.github.io/just-the-docs-template
 

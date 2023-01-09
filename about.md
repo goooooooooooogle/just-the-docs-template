@@ -4,11 +4,15 @@ title: About
 nav_order: 10
 ---
 
+# About the Project
+{: .no_toc }
+
+Table of Content:  
 - 1
 - 2
 {:toc}
 
-# About the project
+# What are we doing?
 This project is conducted by 4 students from UMJI-SJTU. The project features ...
 
 # Contributors (in random order)

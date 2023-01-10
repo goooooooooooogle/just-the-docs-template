@@ -15,12 +15,12 @@ nav_order: 1
 # 2023 WP data analysis—A Discussion on factors influencing subscription of WenXuJinShan official account during pandemic era from multiple perspectives
 
 ## Brief introduction
-In this project, we are going to use tools like python to analyse data of WenXvJinShan official account. And try to find a practicable way to optimize 
+In this project, we are going to use tools like python to analyse data of WenXuJinShan official account. And try to find a practicable way to optimize 
 the function of this official account. Besides function optimization, we also attempt to propose some suggetions that can help this official account 
 attract more subscription
 ### Here are the perspectives we concern.
 - The relationship between article's topic and its attraction.
-- The function of WenXvJinShan official account.
+- The function of WenXuJinShan official account.
 - The users' preference of articles content.
 
 ### Why these?

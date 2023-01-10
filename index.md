@@ -12,7 +12,7 @@ nav_order: 1
 - 6
 {:toc}
 
-# Articles and Functions Optimization of WenXvJinShan Official Account in the Post-epidemic Era Based on Data Analysis
+# 2023 WP data analysis—A Discussion on factors influencing subscription of WenXuJinShan official account during pandemic era from multiple perspectives
 
 ## Brief introduction
 In this project, we are going to use tools like python to analyse data of WenXvJinShan official account. And try to find a practicable way to optimize 

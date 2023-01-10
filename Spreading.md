@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spreading
+title: Content Optimization
 nav_order: 4
 ---
 

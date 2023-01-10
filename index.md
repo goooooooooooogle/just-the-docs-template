@@ -19,12 +19,12 @@ In this project, we are going to use tools like python to analyse data of WenXvJ
 the function of this official account. Besides function optimization, we also attempt to propose some suggetions that can help this official account 
 attract more subscription
 ### Here are the perspectives we concern.
-1. The relationship between article's topic and its attraction.
-2. The function of WenXvJinShan official account.
-3. The users' preference of articles content.
+- The relationship between article's topic and its attraction.
+- The function of WenXvJinShan official account.
+- The users' preference of articles content.
 ### To do these research we use various ways like:
-1. questionaire
-2. use python to analyze the data of this official account
-3. some useful formula from previous paper.
-4. field visit
+- questionaire
+- use python to analyze the data of this official account
+- some useful formula from previous paper.
+- field visit
 This website presents our final results.

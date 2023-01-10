@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Followers
-nav_order: 5
+nav_order: 2
 ---
 
 - 1

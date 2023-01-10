@@ -28,7 +28,7 @@ According to statistics, only `295`(a rather small number compared to the number
 ### An assumption
 Though we don't have enough statistics to support this, we can suppose that online channels are not the dominated factors.
 ### Another Indication
-
+![followers_variation](./assets/followers_variation.png)
 
 ## Conclusions
 Followers are mainly from offline channels, owing to efficient offline publicity.

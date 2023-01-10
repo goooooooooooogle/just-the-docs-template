@@ -24,9 +24,10 @@ There are two main channels
 
 - online channels
 - offline channels
-According to statistics, only `295` followers subscribed the account after reading one of the articles.
+According to statistics, only `295`(a rather small number compared to the number of total followers) followers subscribed the account after reading one of the articles.
 ### An assumption
 Though we don't have enough statistics to support this, we can suppose that online channels are not the dominated factors.
+### Another Indication
 
 
 ## Conclusions

@@ -18,13 +18,13 @@ nav_order: 5
 
 ### At first, there is the curve of subscription number vs day
 
-![followers_variation](./assets/followers_variation.png)
+![followers_trend](./assets/follower_trend.png)
 
 From these picture, we will see that the subscription number increased raplidly from 31.Oct to 14.Nov. To get more precise result, we need to have a closer look.
 
 there is a curve which show daily increasing subscription.
 
-![followers_trend](./assets/follower_trend.png)
+![followers_variation](./assets/followers_variation.png)
 
 From this picture, we can find :
 

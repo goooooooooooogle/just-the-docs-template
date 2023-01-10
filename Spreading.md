@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Content Optimization
+title: Dissemination Channels
 nav_order: 4
 ---
 
@@ -9,11 +9,8 @@ nav_order: 4
 - 3
 {:toc}
 
-# 1
 
-## 2
-
-### Distribution of spreading outlets
+## Distribution of Dissemination Channels
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 

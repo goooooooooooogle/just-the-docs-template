@@ -7,7 +7,7 @@ nav_order: 4
 - 1
 - 2
 - 3
-- {:toc}
+{:toc}
 
 # STAT3060J-h3
 

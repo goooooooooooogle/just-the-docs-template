@@ -45,7 +45,14 @@ The figure below shows distribution of source of followers
 - According to some residents, in November, when most people subscribed the account, the account is advertised at the covid test station.
 #### Above all, offline channels are more dominant.
 
-## Conclusions
-Followers are mainly from offline channels, owing to efficient offline publicity.
+## Conclusions & Advice
+Followers are mainly from offline channels, owing to efficient offline publicity.  
+However, offline channels are not implemented later, and the rise of number of followers became gentle.
+
+Among online channels, group chatting is dominant.
+
+- To attract more followers:
+  - Online: raise the awareness of the account by sharing not only the articles but also the accounts itself in group chats
+  - Offline: implement the methods of publicity at covid test station 
 
 

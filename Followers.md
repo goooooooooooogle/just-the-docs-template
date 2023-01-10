@@ -12,9 +12,9 @@ nav_order: 5
 - 6
 {:toc}
 
-![followers_variation]("/assets/followers_variation.png")
+![followers_variation](/assets/followers_variation.png)
 
 
-![followers_trend]("/assets/followers_trend.png")
+![followers_trend](/assets/followers_trend.png)
 
 

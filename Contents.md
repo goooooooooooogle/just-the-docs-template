@@ -63,5 +63,5 @@ Propogation Extend of a Single Article=(Rate of First hand Shareness)*15+Rate of
 ```
 Attractiveness Extent of a Single Article=min((Followers After Reading)/(Reading of the Shared Articles),1)
 ```
-I set an upper limit to this data because it is meaningless if the Entent is bigger than 100%.  
+I set an upper limit to this data because it is meaningless if the value is bigger than 100%.  
 There are 4 major combinations of tags and 4 tags, so we can use a four-equations system to solve the contribution of each tag.  

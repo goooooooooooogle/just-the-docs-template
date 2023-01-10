@@ -16,5 +16,8 @@ Table of Content:
 - Wang Runqiu 王润秋 
   - email: helloworldwrq@sjtu.edu.cn
 - Du Yi 杜易
+  - kaneki993@sjtu.edu.cn
 - Lin Zixiang 林子翔
+  - linzixiang@sjtu.edu.cn
 - Yang Cheng 杨程
+  - Lmir_YC@sjtu.edu.cn

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dissemination Channels
-nav_order: 4
+nav_order: 3
 ---
 
 - 1

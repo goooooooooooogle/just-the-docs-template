@@ -11,7 +11,7 @@ nav_order: 5
 - 4
 - 5
 - 6
-  {:toc}
+{:toc}
 
 # Functions of WenXuJinShan Official Account
 

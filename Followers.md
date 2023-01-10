@@ -12,9 +12,9 @@ nav_order: 5
 - 6
 {:toc}
 
-![followers_variation](https://github.com/goooooooooooogle/just-the-docs-template/blob/main/assets/followers_trend.png)
+![followers_variation](./assets/followers_variation.png)
 
 
-![followers_trend](./assets/followers_trend.png)
+![followers_trend](./assets/follower_trend.png)
 
 

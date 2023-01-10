@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Topics of articles
+title: Contents
 nav_order: 2
 ---
 
@@ -9,7 +9,7 @@ nav_order: 2
 - 3
 {:toc}
 
-## Analysis of the Tag of Current Articles(YC)
+## Analysis of the Tag of Current Articles
 ### Label the Current Articles
 After browsing all the articles, our team decide to label them with four tags. They are **Pandemic**,**Information**,**Science Popularization**,**Welfare** respectively. And an article can have more than one tags. Then we focus on the tags factors that effect the articles propagation and attractiveness.
 ### Current Distribution of Tags

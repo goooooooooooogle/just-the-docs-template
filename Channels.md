@@ -20,15 +20,17 @@ nav_order: 2
 
 ## Dissemination channels' contribution to the number of followers
 
-There are two main channels
+####There are two main channels
 
 - online channels
-- offline channels
-According to statistics, only `295`(a rather small number compared to the number of total followers) followers subscribed the account after reading one of the articles.
-### An assumption
-Though we don't have enough statistics to support this, we can suppose that online channels are not the dominated factors.
-### Another Indication
-![followers_variation](./assets/followers_variation.png)
+- offline channels  
+
+### Online VS Offline: which one is dominant?
+
+1. According to background statistics, only `295`(a rather small number compared to the number of total followers) followers subscribed the account after reading one of the articles.
+2. According to the results of our survey, we can tell that most followers come from offline channels.
+3. According to some residents, in November, when most people subscribed the account, the account is advertised at the covid test station.
+
 
 ## Conclusions
 Followers are mainly from offline channels, owing to efficient offline publicity.

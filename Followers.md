@@ -15,6 +15,6 @@ nav_order: 5
 ![followers_variation](https://github.com/goooooooooooogle/just-the-docs-template/blob/main/assets/followers_trend.png)
 
 
-![followers_trend](/assets/followers_trend.png)
+![followers_trend](./assets/followers_trend.png)
 
 

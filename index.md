@@ -24,11 +24,16 @@ attract more subscription
 - The users' preference of articles content.
 
 ### Why these?
+Let's take a look at factors to the number of followers.
 
 ```mermaid
 graph
-    Factors-->Follwers
-    Factors-->Channels
+    Factors-->Policies/Environment
+    Factors-->Operation
+    Operation-->Channels
+    Operation-->Contents
+    Operation-->Functions
+    Factors-->Preference_of_followers
 ```
 
 ### To do these research we use various ways like:

@@ -57,6 +57,6 @@ By differentiating two graphs above, we can get the deviation of different tags.
 Other communities like to push **propagation of Party** and **knowledge popularization**, but residents don't feel like reading them.
 The rest of tags are good. The account can take them into consideration.
 ### Explanation of the Result of Propagation and Reletive Attractiveness
-Propogation Extend of a Single Article=(Rate of First hand Shareness)*15+Rate of Reading if delivered
-Attractiveness Extent of a Single Article=min((Followers After Reading)/(Reading of the Shared Articles),1) I curve this data because it is meaningless if the Entent is bigger than 100%.
-There are 4 major combinations of tags and 4 tags. So we can use a four-equations system to solve the contribution of each tag.
+Propogation Extend of a Single Article=(Rate of First hand Shareness)*15+Rate of Reading if delivered  
+Attractiveness Extent of a Single Article=min((Followers After Reading)/(Reading of the Shared Articles),1) I curve this data because it is meaningless if the Entent is bigger than 100%.  
+There are 4 major combinations of tags and 4 tags. So we can use a four-equations system to solve the contribution of each tag.  

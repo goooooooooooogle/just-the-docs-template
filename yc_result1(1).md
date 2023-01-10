@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YC
+title: Topics of articles
 nav_order: 2
 ---
 

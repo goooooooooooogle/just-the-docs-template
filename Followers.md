@@ -14,5 +14,5 @@ nav_order: 5
 
 ![followers_variation](/assets/followers_variation.png")
 
-![followers_trend.png](/assets/followers_trend.png")
+![followers_trend](/assets/followers_trend.png")
 

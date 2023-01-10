@@ -1,3 +1,14 @@
+---
+layout: default
+title: YC
+nav_order: 2
+---
+
+- 1
+- 2
+- 3
+{:toc}
+
 ## Analysis of the Tag of Current Articles(YC)
 
 ### Label the Current Articles

@@ -22,6 +22,15 @@ attract more subscription
 - The relationship between article's topic and its attraction.
 - The function of WenXvJinShan official account.
 - The users' preference of articles content.
+
+### Why these?
+
+```mermaid
+graph
+    Factors-->Follwers
+    Factors-->Channels
+```
+
 ### To do these research we use various ways like:
 - questionaire
 - use python to analyze the data of this official account

@@ -9,9 +9,9 @@ nav_order: 4
 - 3
 {:toc}
 
-# STAT3060J-h3
+# 1
 
-## Functions of WenXvJinShan Official Account
+## 2
 
 ### Distribution of spreading outlets
 

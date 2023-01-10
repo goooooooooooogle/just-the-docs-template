@@ -36,8 +36,8 @@ The average reading rate of articles after 12.Nov is 0.056
 The average reading rate of articles before 12.Nov is 0.136
 The articles before 12.Nov is much more attractive than articles after 12.Nov
 
-#explanation and result
-The tag of articles before 12.Nov and after 12.Nov are quite similar, However the articles are less attractive. That's because the old users who focus on covid pandemic all subscribe this officail account and get to saturation, So to make articles more attractive to new users. This official account should push articles which topic is concerned by people in JinShan community Here is some popular theme based on questionaire: (result of questionaire)
+# explanation and result
+The tag of articles before 12.Nov and after 12.Nov are quite similar, However the articles are less attractive. That's because the old users who focus on covid pandemic all subscribe this officail account and get to saturation, So to make articles more attractive to new users. This official account should push articles whose topic is concerned by people in JinShan community Here is some popular theme based on questionaire: (result of questionaire)
 
 
 

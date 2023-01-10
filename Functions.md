@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Function Optimization
+title: Functions
 nav_order: 2
 ---
 
@@ -13,7 +13,7 @@ nav_order: 2
 {:toc}
 
 
-# Functions of WenXvJinShan Official Account
+# Functions of WenXuJinShan Official Account
 
 ## Overview
 
@@ -76,4 +76,4 @@ Through the above analysis, it becomes clear that:
 - The status quo can be problematic, since "疫情防控" function becomes useless in the post-epidemic era.
 - We need to develop other functions to meet the needs of residents better.
 
-
+## Constructive advice

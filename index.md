@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 ---
 
+#### Table of Contents
 - 1
 - 2
 - 3

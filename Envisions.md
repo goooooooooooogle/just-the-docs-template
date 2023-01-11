@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Conclusion & Prospect
+title: Conclusions & Prospect
 nav_order: 6
 ---
 
 
-# Conclusion and Prospect
-### Conclusion
+# Conclusions and Prospect
+### Conclusions
 - from the analysis, we suggest that the account should focus on the functions what people real need such as polling function to decide important things. 
 - Also, followers also want to see some articles fitting to their real need. 
 

@@ -4,6 +4,7 @@ title: Dissemination Channels
 nav_order: 2
 ---
 
+#### Table of Contents
 - 1
 - 2
 - 3
@@ -49,6 +50,7 @@ The figure below shows distribution of source of followers
 
 - According to some residents, in November, when most people subscribed the account, the account is advertised at the covid test station.
 #### Above all, offline channels are more dominant.
+{: .no_toc }
 
 ## Conclusions & Advice
 Followers are mainly from offline channels, owing to efficient offline publicity.  

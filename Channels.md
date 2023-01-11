@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 #### Table of Contents
+{: .no_toc .text-delta }
 - 1
 - 2
 - 3

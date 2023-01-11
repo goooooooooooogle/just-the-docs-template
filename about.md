@@ -36,12 +36,12 @@ nav_order: 10
 
 ## Lin Zixiang
 - Completed `Functions` part
-- Contributed to PPT for presentation
+- Contributed to slides for presentation
 - Created questionaires and provided their results
 
 ## Yang Cheng
 - Completed `Contents` part
-- Contributed to PPT for presentation
+- Contributed to slides for presentation
 - Got data from other communities
 
 ## All of 4 Members
@@ -50,5 +50,26 @@ nav_order: 10
 - Participated in the presentation
 - Interviewed residents while doing offline surveys and investigations
 - Enjoyed the trip
+
+# Our Winter Program 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

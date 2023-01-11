@@ -11,7 +11,7 @@ nav_order: 2
 - 3
 {:toc}
 
-
+# Results
 ## Dissemination channels' contribution to the number of views
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
@@ -54,7 +54,7 @@ The figure below shows distribution of source of followers
 ### Above all, offline channels are more dominant.
 {: .no_toc .text-delta }
 
-## Conclusions & Advice
+# Conclusions & Advice
 Followers are mainly from offline channels, owing to efficient offline publicity.  
 However, offline channels are not implemented later, and the rise of number of followers became gentle.
 

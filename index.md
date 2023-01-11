@@ -16,6 +16,7 @@ nav_order: 1
 {:toc}
 
 # 2023 WP Data Analysis—A Discussion on Factors Influencing Subscription of WenXuJinShan Official Account during Pandemic Era from Multiple Perspectives
+{: .no_toc }
 
 ## Brief Introduction
 In this project, we are going to use tools like python to analyse data of WenXuJinShan official account. And try to find a practicable way to optimize 

@@ -8,7 +8,7 @@
 
 ## Website
 
-### https://goooooooooooogle.github.io/STAT3060J_Team2/
+### https://goooooooooooogle.github.io/just-the-docs-template/
 
 
 ## Contact us

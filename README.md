@@ -1,7 +1,7 @@
 # STAT3060J
 ## Computational Thinking with Data (Winter Program)
-## Team 2
-### Lin Zixiang, Yang Cheng, Wang Runqiu,Du Yi.
+## Team 2 (in random order)
+### Lin Zixiang, Yang Cheng, Wang Runqiu, Du Yi.
 ## Project
 
 ### A Discussion on factors influencing subscription of WenXuJinShan official account during pandemic era from multiple perspectives

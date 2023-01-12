@@ -28,6 +28,7 @@ nav_order: 10
 - Took change of creating the website
 - Completed the `Channel` part
 - Got data of the account and reorganised them
+- Drew figures of `Followers` part
 
 ## Du Yi
 - Completed `Followers` part

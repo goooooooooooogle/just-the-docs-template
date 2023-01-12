@@ -11,5 +11,12 @@
 ### https://goooooooooooogle.github.io/just-the-docs-template/
 
 
-## Contact
-### Email: linzixiang@sjtu.edu.cn
+## Contact us
+- Wang Runqiu 王润秋 
+  - email: helloworldwrq@sjtu.edu.cn
+- Du Yi 杜易
+  - email: kaneki993@sjtu.edu.cn
+- Lin Zixiang 林子翔
+  - email: linzixiang@sjtu.edu.cn
+- Yang Cheng 杨程
+  - email: Lmir_YC@sjtu.edu.cn

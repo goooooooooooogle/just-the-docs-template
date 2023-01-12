@@ -8,7 +8,7 @@
 
 ## Website
 
-### https://dzsyang.github.io/STAT3060J/
+### https://goooooooooooogle.github.io/just-the-docs-template/
 
 
 ## Contact

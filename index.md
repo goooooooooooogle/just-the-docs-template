@@ -51,7 +51,7 @@ graph
 - field visit
 
 This website presents our final results.
-- [Click here to access our slides for presentation](https://github.com/goooooooooooogle/just-the-docs-template/blob/main/files/Team2_Pre.pptx)
+- [Click here to access our slides for presentation](https://github.com/goooooooooooogle/just-the-docs-template/blob/main/files/Team2_Pre_final.pptx)
 - [Click here to access our Github repository](https://github.com/goooooooooooogle/just-the-docs-template)
 - [Contact us](https://goooooooooooogle.github.io/just-the-docs-template/about.html)
 - [Click here to access our code](https://github.com/goooooooooooogle/just-the-docs-template/tree/main/code)
